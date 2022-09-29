@@ -1,0 +1,21 @@
+{
+    "name": "tonny/001",
+    "autoload": {
+        "psr-4": {
+            "Tonny\\001\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tonnycoder001",
+            "email": "tsandry7@gmail.com"
+        }
+    ],
+    "require": {},
+    "vendor/autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+    
+}
